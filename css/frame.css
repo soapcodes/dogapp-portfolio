@@ -289,10 +289,10 @@ hr {
 .flex-item2 {
   margin: 15px 20px;
   padding:5px 20px;
-  background:white;
+  background: #FBF9FF url("../img/grid.png");
   border:1px solid #894EFF;
-  outline:1px dashed #894EFF;
-  outline-offset:-10px;
+  border-radius: 25px;
+
   box-shadow:5px 5px #AE85FF; 
   width: 850px;
 }
@@ -381,6 +381,30 @@ hr {
 .image-wrap-text {
   float: left;
   margin: 5px 40px 25px 0;
+}
+
+.round-corner {
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+}
+
+.round-corner:hover {
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -moz-border-radius-topleft: 25px;
+  -moz-border-radius-topright: 25px;
+  -moz-border-radius-bottomright: 25px;
+  -moz-border-radius-bottomleft: 25px;
+  -webkit-border-radius: 25px 25px 25px 25px;
+  border-radius: 25px 25px 25px 25px;
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
 }
 
 .image-caption {
