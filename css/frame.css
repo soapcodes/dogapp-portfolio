@@ -38,7 +38,7 @@ transition: all 1s ease-out;}
 a:link, a:active, a:visited{
 color: #696969; 
 text-decoration:none;
-font-family: 'Share Tech Mono', monospace;
+font-family: 'Space Mono', monospace;
 
 }
 
@@ -74,11 +74,11 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 23px;
   margin: 10px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-family: 'Share Tech Mono', monospace, Helvetica, Arial, sans-serif;
+  font-family: 'VT323', monospace, Helvetica, Arial, sans-serif;
 }
 
 ul {
@@ -137,6 +137,29 @@ hr {
   flex: 1 auto;
 }
 
+.logoimg {
+  width: 30px;
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+
+}
+
+.logoimg:hover {
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+} 
+
 .menu-button {
   width: 40px;
   height: 40px;
@@ -170,6 +193,7 @@ hr {
 .menu-items a:hover {
   color: rgb(255, 255, 255);
   opacity: 1;
+  background : url(../img/stars2.gif) no-repeat center bottom; background-size: 100px;
 }
 
 .content-container {
@@ -187,15 +211,6 @@ hr {
   font-weight: 300;
   line-height: 1.5;
   max-width: 850px;
-}
-
-.content p a {
-  text-decoration: none;
-  color: #005cbf;
-}
-
-.content p a:hover {
-  text-decoration: underline;
 }
 
 .content-table {
@@ -279,6 +294,7 @@ hr {
   outline:1px dashed #894EFF;
   outline-offset:-10px;
   box-shadow:5px 5px #AE85FF; 
+  width: 850px;
 }
 
 .left-align {
@@ -374,8 +390,8 @@ hr {
   margin-bottom: 10px;
 }
 
-.max-width-380 {
-  max-width: 380px;
+.max-width-300 {
+  max-width: 300px;
 }
 
 .max-width-400 {
@@ -786,7 +802,7 @@ position: fixed;
 top: 130px;
 left: 0px;
 width: 30px;
-padding: 50px 0px;
+padding: 40px 0px;
 text-align: center;
 background: rgba(255,255,255,0.5);
 border: 1px solid #FFE4E1;
@@ -844,9 +860,9 @@ writing-mode: lr-tb;
 -o-transform: rotate(-90deg);
 transform: rotate(-90deg);
 position: absolute;
-left: -15px;
+left: -10px;
 top: 34px;
-font-family:'Chewy', cursive;
+font-family:'VT323', monospace, verdana, Lucida Sans Unicode;
 font-size: 22px;
 font-weight: normal;
 color:black;
