@@ -8,8 +8,6 @@ Website for our final year project
 
 ## Introduction
 
-### FRING: A GEOGRAPHY-BASED P2P OVERLAY NETWORK FOR FAST AND ROBUST BLOCKCHAIN SYSTEMS
-
 Hello World! We are team number 3.1 of CPSC 481, fall 2019 and welcome to our online portfolio for our group project, Barkipedia. Here, different stages of the project will be documented from start to end.
 
 The purpose of this project is for students to have firsthand experience on the user-centered design process. Students are responsible for suggesting a novel idea and engineering a tool for direct human use based on that idea.
