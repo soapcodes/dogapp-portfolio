@@ -1,7 +1,7 @@
 # Group 3.1 Project Portfolio Website
 ## Fall 2019 CPSC 481 Tutorial 03
 
-Website for our final year project
+Our official project portfolio. Hosted by GitHub webpages.
 
 - Website can be accessed here: https://cpsc481fall2019.github.io
 - Team members: Marela Carlos, Daniel Tiu, Sophia Le, Matthew Sardinha, Shanty Kamal 
