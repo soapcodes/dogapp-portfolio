@@ -64,6 +64,31 @@
     $("#dialog-btn-1").on("click", function () {
       $dialog_pdf.dialog("open");
     });
+      
+    var $dialog_pdf2 = widgets.createPdfDialog({
+      selector: "#dialog-pdf2",
+      full_width_button: true
+    });
+    $("#dialog-btn-2").on("click", function () {
+      $dialog_pdf.dialog("open");
+    });
+      
+    var $dialog_pdf3 = widgets.createPdfDialog({
+      selector: "#dialog-pdf3",
+      full_width_button: true
+    });
+    $("#dialog-btn-3").on("click", function () {
+      $dialog_pdf.dialog("open");
+    });
+      
+    var $dialog_pdf4 = widgets.createPdfDialog({
+      selector: "#dialog-pdf4",
+      full_width_button: true
+    });
+    $("#dialog-btn-4").on("click", function () {
+      $dialog_pdf.dialog("open");
+    });
+      
     var $dialog_1 = widgets.createCustomDialog({
       selector: "#dialog-1",
       full_width_button: true
@@ -100,13 +125,7 @@
     // Create the gallery
     var $gallery = $(".gallery");
     // In practice, these images urls may come from your server via http ajax requests.
-    for (var i = 0; i < 20; i++) {
-      var item = "<a href=\"javascript:void(0)\" class=\"flex-column\">" +
-        "<img src=\"img/dummay-img.png\">" +
-        "<div>Image Caption</div>" +
-        "</a>";
-      $gallery.append($(item));
-    }
+
   }
 
   $(init);

@@ -193,7 +193,7 @@ hr {
 .menu-items a:hover {
   color: rgb(255, 255, 255);
   opacity: 1;
-  background : url(../img/stars2.gif) no-repeat center bottom; background-size: 100px;
+  background : url(../img/stars.gif) no-repeat center top; background-size: 80px;
 }
 
 .content-container {
