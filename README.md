@@ -4,7 +4,6 @@
 Our official project portfolio. Hosted by GitHub webpages.
 
 - Website can be accessed here: https://cpsc481fall2019.github.io
-- Website template created by Yen-Chia: https://github.com/yenchiah/project-website-template
 - Team members: Marela Carlos, Daniel Tiu, Sophia Le, Matthew Sardinha, Shanty Kamal 
 
 ## Introduction
