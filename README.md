@@ -26,5 +26,6 @@ With Barkipedia, we hope to be an easy and local solution for the needs of every
 ### Features
 * CONNECT - Our Bark Overflow forum is available for both dog experts and novices and allows users to get advice and give advice.
 * EXPLORE - Users are able to leave reviews of local dog services and easily locate the best groomer, vet, or dogsitter near them.
+<<<<<<< HEAD
 * EVENTS - Are you and your dog always bored at home? Check out our meet ups page to find one near you to attend with your furry friend.
 * PERSONALIZE - Create a customizeable profile for you and your pet! On the profile page, you can upload your own photos, share details, and easily browse through your own forum postings, written reviews, and  rsvp'ed events.
