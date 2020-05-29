@@ -227,8 +227,10 @@ hr {
   align-items: stretch;
   align-content: stretch;
   box-sizing: border-box;
-    
-  
+}
+
+.gall-image {
+    width: 100px;
 }
 
 .flex-row-space-between {
