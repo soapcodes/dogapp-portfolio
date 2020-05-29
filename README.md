@@ -3,7 +3,7 @@
 
 Our official project portfolio. Hosted by GitHub webpages.
 
-- Website can be accessed here: https://cpsc481fall2019.github.io
+- Website can be accessed here: https://github.com/s0phito/dogapp-portfolio
 - Team members: Marela Carlos, Daniel Tiu, Sophia Le, Matthew Sardinha, Shanty Kamal 
 
 ## Introduction
