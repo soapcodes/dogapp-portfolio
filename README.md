@@ -3,7 +3,7 @@
 
 Our official project portfolio. Hosted by GitHub webpages.
 
-- Website can be accessed here: https://s0phito.github.io/dogapp-portfolio
+- Website can be accessed here: https://soapcodes.github.io/dogapp-portfolio
 - Team members: Marela Carlos, Daniel Tiu, Sophia Le, Matthew Sardinha, Shanty Kamal 
 
 ## Introduction
